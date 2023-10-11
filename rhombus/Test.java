@@ -2,8 +2,8 @@ package rhombus;
 /**
  * Testing the Rhombus class
  *
- * @Karlie (your name)
- * @Oct 27 2022 (a version number or a date)
+ * @Karlie
+ * @Oct 27 2022
  * The testing program creates three different rhombus on seperate windows.
  */
 
